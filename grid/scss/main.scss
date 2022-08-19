@@ -1,0 +1,71 @@
+@use "sass:math";
+
+$columns: 12;
+$column-base-width: math.div(100%, $columns);
+$padding: 30px 0;
+$padding-big: 60px 0;
+
+@mixin spaces(){
+    padding: $padding;
+    margin-bottom: 10px;
+}
+
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+
+    .row{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    @for $i from 1 through $columns{
+        .col-#{$i}{
+            width: $column-base-width * $i;
+            box-sizing: border-box;
+        }
+    }
+}
+
+[class*='small']{
+    @include spaces;
+}
+[class*='little-']{
+    padding: $padding;
+}
+
+.head{
+    background-color: fuchsia;
+    padding: $padding-big;
+    margin-bottom: 30px;
+}
+
+.aside{
+    &__small-left{
+        background-color: chartreuse;
+    }
+}
+.middle{
+    &__small-middle{
+        background-color:blue;
+    }
+    &__little-one{
+        background-color:darkmagenta;
+    }
+    &__little-middle{
+        background-color:crimson;
+    }
+    &__little-end{
+        background-color:cyan;
+    }
+}
+
+.right{
+    background-color:darkorange;
+    margin-bottom: 100px;
+}
+
+.foot{
+    background-color: darkorchid;
+    padding: $padding-big;
+}

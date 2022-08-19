@@ -1,0 +1,36 @@
+@use "sass:color";
+
+$color: fuchsia;
+$secondary-color: purple;
+$third-color: #404040;
+$fourth-color: #858585;
+
+div{
+    height: 20px;
+    width: 500px;
+    margin-bottom: 10px;
+}
+
+@for $i from 1 through 5{
+    .colour#{$i}{
+        background-color: color.scale($color, $lightness: $i * -10%);
+    }
+}
+
+@for $i from 6 through 10{
+    .colour#{$i}{
+        background-color: color.scale($secondary-color, $saturation: $i * -10%);
+    }
+}
+
+@for $i from 11 through 15{
+    .colour#{$i}{
+        background-color: color.scale($third-color, $whiteness: $i * 5%);
+    }
+}
+
+@for $i from 16 through 20{
+    .colour#{$i}{
+        background-color: color.scale($fourth-color, $saturation: $i * 1%);
+    }
+}

@@ -1,0 +1,30 @@
+29
+55C:\Users\48697\Desktop\str\samples\samples\package.json133053865021057842 0
+66C:\Users\48697\Desktop\str\samples\samples\dist\colors.3538233d.js133053879513874628 0
+47C:\Users\48697\Desktop\str\samples\samples\dist133053879721508885 1
+49C:\Users\48697\Desktop\str\samples\samples\colors133053862367461483 1
+65C:\Users\48697\Desktop\str\samples\samples\sample_02_loading bars133053697251742114 1
+70C:\Users\48697\Desktop\str\samples\samples\dist\colors.3538233d.js.map133053879513924517 0
+47C:\Users\48697\Desktop\str\samples\samples\grid133053803234983422 1
+60C:\Users\48697\Desktop\str\samples\samples\package-lock.json133053807494049528 0
+70C:\Users\48697\Desktop\str\samples\samples\sample_02_loading bars\scss133053697251898365 1
+69C:\Users\48697\Desktop\str\samples\samples\sample_01_rotating_circles133053697385346009 1
+76C:\Users\48697\Desktop\str\samples\samples\sample_02_loading bars\index.html133044188697656385 0
+81C:\Users\48697\Desktop\str\samples\samples\sample_02_loading bars\scss\style.scss133044220403669343 0
+80C:\Users\48697\Desktop\str\samples\samples\sample_01_rotating_circles\index.html133044157829357020 0
+74C:\Users\48697\Desktop\str\samples\samples\sample_01_rotating_circles\scss133053697385502217 1
+85C:\Users\48697\Desktop\str\samples\samples\sample_01_rotating_circles\scss\style.scss133044182189627182 0
+85C:\Users\48697\Desktop\str\samples\samples\sample_01_rotating_circles\scss\styles.css133044137442176713 0
+58C:\Users\48697\Desktop\str\samples\samples\grid\index.html133053851862744692 0
+52C:\Users\48697\Desktop\str\samples\samples\grid\scss133053803308221529 1
+62C:\Users\48697\Desktop\str\samples\samples\grid\scss\main.scss133053858461299482 0
+64C:\Users\48697\Desktop\str\samples\samples\dist\grid.866c2e35.js133053855740140209 0
+68C:\Users\48697\Desktop\str\samples\samples\dist\grid.866c2e35.js.map133053855740229974 0
+66C:\Users\48697\Desktop\str\samples\samples\dist\index.4cdb1ad3.css133053858462078967 0
+70C:\Users\48697\Desktop\str\samples\samples\dist\index.4cdb1ad3.css.map133053858462078967 0
+58C:\Users\48697\Desktop\str\samples\samples\dist\index.html133053879513874628 0
+66C:\Users\48697\Desktop\str\samples\samples\dist\index.ed74ba8e.css133053879721508885 0
+70C:\Users\48697\Desktop\str\samples\samples\dist\index.ed74ba8e.css.map133053879721508885 0
+60C:\Users\48697\Desktop\str\samples\samples\colors\index.html133053874491444150 0
+54C:\Users\48697\Desktop\str\samples\samples\colors\scss133053862467096323 1
+64C:\Users\48697\Desktop\str\samples\samples\colors\scss\main.scss133053879720727928 0
